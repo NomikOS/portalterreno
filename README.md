@@ -51,12 +51,12 @@ Aqui hago un resúmen de las capacidades y tareas que espero desplegar para crea
     - Logs
 
 ## Diseño de infraestrutura con pulumi en GCP y/o AWS
-- Se diseña la infraestrutura para correr los códigos de forma programática usando typescript. Esto facilita llevar a cabo la filosofía de usar las máquinas como ganadop y no como mascotas.
+- Se diseña la infraestrutura para correr los códigos de forma programática usando typescript. Esto facilita llevar a cabo la filosofía de usar las máquinas como ganado y no como mascotas.
 - La infraestrutura se puede guardar, versionar, rehacer, probar distintas configuraciones, de manera rápida y con la confianza de mantener ambientes precisos
 
 ## Lineas de estudio e investigación continua de nuevas tecnologias
   - Elixir: permitiría ahorro en capacidad computacional y mejor manejo de errores
-  - Blockchain: Decentralizacón de datos, Responsabilida legal compartida?
+  - Blockchain: Decentralizacón de datos, Responsabilida legal compartida? Hay mucho que estudiar aquí.
   - IA y Big data: análisis de data actual, predicciones de mercado, entrenamiento de modelos, who knows...
 
 ## Mobile
@@ -75,4 +75,4 @@ Aqui hago un resúmen de las capacidades y tareas que espero desplegar para crea
 ## Conclusión
 
 Me gusta el estado en que se encuentra portalterreno ahora. Es el momento ideal para, despues de haber implantado fuertemente su posición diferenciadora en el mercado nacional y estar entrando con seguridad a otros países, asegurar lo que se tiene y planear con tranquilidad pero eficiencia el próximo paso.   
-Una versión 2 usando todo lo mejor que nos ofrece la tecnología cloud junto a la experiencia, responsabilidad y excelencia que espero poner a sus disposición.
+Una versión 2 usando todo lo mejor que nos ofrece la tecnología cloud junto a la experiencia, responsabilidad y excelencia que espero poner a su disposición.
