@@ -14,7 +14,7 @@ Personalmente me importa mucho la imagen de la empresa. Encuentro inaceptable ca
 
 Aqui hago un resúmen de las capacidades y tareas que espero desplegar para crear una nueva estructura informática para portalterreno.
 
-## Ingenieíra de software
+## Ingeniería de software
 
 - Diseño de soluciones con UML
 - Diseño de apis y modelos de dominio
@@ -59,9 +59,17 @@ Aqui hago un resúmen de las capacidades y tareas que espero desplegar para crea
   - Blockchain: Decentralizacón de datos, Responsabilida legal compartida?
   - IA y Big data: análisis de data actual, predicciones de mercado, entrenamiento de modelos, who knows...
 
-## Educación continua
+## Educación personal continua
 - Estoy mejorando mi inglés con clases semanales
 - Espero tomar el curso ["Master en Data Science y Big Data"](https://www.iebschool.com/programas/master-data-science) con lo cual espero aportar mucho más valor en el corto y mediano plazo.
   - Empieza el 28/10/2011
   - 10 meses
   - U$S 6.250
+
+## Libertad para viajar
+- Puedo viajar de ser necesario y llegado el momento para entrenar a otros equipos de desarrolladores e ingenieros para mantener un marco unificado de calidad e interoperabilidad de sistemas y esquemas trabajo.
+
+## Conclusión
+
+Me gusta el estado en que se encuentra portalterreno ahora. Es el momento ideal para, despues de haber implantado fuertemente su posición diferenciadora en el mercado nacional y estar entrando con seguridad a otros países, asegurar lo que se tiene y planear con tranquilidad pero eficiencia el próximo paso.   
+Una versión 2 usando todo lo mejor que nos ofrece la tecnología cloud junto a la experiencia, responsabilidad y excelencia que espero poner a sus disposición.
